@@ -36,7 +36,7 @@ Make sure you have Python 3.x installed.
 
 Clone this repository:
 
-git clone https://github.com/your-username/PeopleManagementSystem.git
+git clone (https://github.com/NathnF0/People.Manager.git)
 
 Navigate to the project folder:
 
